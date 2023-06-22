@@ -1,4 +1,5 @@
-[
+{
+"products":[
     {
      "id":"1",
       "thumbnail src": "https://www.partyanimalinc.com/TMBML9-foilbag.png",
@@ -153,3 +154,4 @@
       "normal-price 4": ""
     }
    ]
+}
