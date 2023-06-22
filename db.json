@@ -153,5 +153,16 @@
       "storename 4": "",
       "normal-price 4": ""
     }
-   ]
+   ],
+   "users":[
+    {
+      "id":1,
+      "firstname":"Jagriti",
+      "lastname":"Kumari",
+      "email":"jag123@gmail.com",
+      "password":"12345",
+      "reenterpass":"12345",
+      "company":"Noedoe"
+    }
+  ]
 }
